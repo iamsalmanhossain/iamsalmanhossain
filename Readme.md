@@ -45,10 +45,8 @@
 
   <!--social-->
   ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="30"><b> FOLLOW ME ON SOCIALS:</b>
-  <table>
+  <table align="center">
   <tr>
-
-
     <td align="center">
       <a href="https://www.linkedin.com/in/iamsalmanhossain">
         <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
@@ -56,16 +54,13 @@
       <br />
       LinkedIn
     </td>
-
-   <td align="center">
-  <a href="https://www.facebook.com/md.sayem.hossain.71778">
-    <img width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"
-    />
-  </a>
-  <br />
-  Facebook
-</td>
+    <td align="center">
+      <a href="https://www.facebook.com/md.sayem.hossain.71778">
+        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+      </a>
+      <br />
+      Facebook
+    </td>
     <td align="center">
       <a href="mailto:salmanhossain.dev@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" width="40" />
@@ -81,7 +76,7 @@
       Discord
     </td>
   </tr>
-</table>
+  </table>
     <!--  Divider -->
   <h3 align="center" >
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -215,12 +210,11 @@
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=iamsalmanhossain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamsalmanhossain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 <br>
-  Contribution Activity
-<br><br><br>
+  <b>Contribution Activity</b>
+<br><br>
 <div align="center">
  <img src="https://streak-stats.demolab.com/?user=iamsalmanhossain&theme=tokyonight" />
 <p align="center">
