@@ -4,16 +4,15 @@
 <br/>
 
 <!--- title --->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Md. Salman Hossain</h1></summary>
-    <!--- typo --->
+<div id="user-content-toc" align="center">
+  <h1 style="display: inline-block">Hi 👋, I'm Md. Salman Hossain</h1>
+  <br>
+  <!--- typing effect --->
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Professional+MERN+Stack+Developer;JavaScript+%26+Node.js+Enthusiast;Passionate+about+Clean+Code;Always+Learning+%26+Building" alt="Typing SVG" />
-    <img width="1500px" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
-</a>
-
-  </ul>
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=600&lines=Professional+MERN+Stack+Developer;JavaScript+%26+Node.js+Enthusiast;Passionate+about+Clean+Code;Always+Learning+%26+Building" alt="Typing SVG" />
+  </a>
+  <br>
+  <img width="1500px" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 </div>
 <!-- =============================== -->
 <!-- 👁️ GitHub Profile View Counter -->
