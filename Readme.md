@@ -30,13 +30,13 @@
 <!--- about --->
 
 - 👋 Hi, I’m **[@Md. Salman Hossain](https://github.com/iamsalmanhossain)**
-- 🖥️ I’m currently working on **Html, Css, Javascript, React and TailwindCss** for frontend development.
+- 🖥️ I’m currently working on **HTML, CSS, JavaScript, React and TailwindCSS** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
 - ⚡ I am exploring **Next.js**.
 - 🌍✈️ I’m working on a **tourism website**.
-- 🛠️ I’m currently building **MERN STACK APPICATION**.
+- 🛠️ I’m currently building a **MERN STACK APPLICATION**.
 - 💬 Ask me about **Full-Stack (MongoDB, Express.js, React.js and Node.js)**.
-- 📫 Feel free to reach me out **[Email](mds619820@gmail.com)**
+- 📫 Feel free to reach out to me via **[Email](mailto:mds619820@gmail.com)**
 
     <!--  Divider -->
   <h3 align="center" >
