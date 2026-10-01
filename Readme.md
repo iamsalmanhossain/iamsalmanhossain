@@ -137,7 +137,10 @@ console.log(md_salman.sayHi());
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <br>
+  <h3>❝ <i>Great software is built on clean code, continuous learning, and a passion for solving real-world problems.</i> ❞</h3>
+  <p><b>— Salman Hossain</b></p>
+  <br>
 </div>
 
 <div align="center">
