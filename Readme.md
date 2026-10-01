@@ -22,18 +22,16 @@
 
 ### 👨‍💻 `about_me.js`
 
-I am a passionate and results-driven **Full-Stack Developer** specializing in the MERN stack. With a keen eye for UI/UX and a strong foundation in backend architecture, I build complete, performant web applications from the ground up.
+I am a results-driven **Full-Stack Developer** and **SaaS Builder** focused on crafting scalable, high-performance web applications. Bridging the gap between pixel-perfect frontend interfaces and robust backend architectures, I thrive on solving real-world problems through clean and efficient code.
 
 ```javascript
 const md_salman = {
-  pronouns: "He" | "Him",
-  role: "Full-Stack Developer",
-  techStack: ["MongoDB", "Express.js", "React.js", "Node.js"],
+  roles: ["Full-Stack Developer", "SaaS Builder", "Real World Problem Solver"],
+  coreTech: ["React", "Next.js", "Node.js", "PostgreSQL", "Prisma", "MongoDB"],
+  engineeringFocus: ["Database Design", "API Integration", "Performance Optimization", "Clean Code"],
   currentFocus: "Building a Comprehensive Tourism SaaS Platform 🚀",
-  exploring: "Next.js & Advanced State Management 💡",
-  collaboration: "Open Source & Innovative SaaS products 🤝",
   sayHi: function() {
-    return "I focus on writing clean, scalable, and efficient code to solve real-world problems!";
+    return "I build complete, secure, and performant web applications from the ground up!";
   }
 };
 
