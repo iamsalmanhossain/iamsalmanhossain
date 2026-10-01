@@ -1,207 +1,123 @@
-<!--- banner --->
-<img src="./assets/asciiPic.png" alt="Hello world" style="width: 100%; height: 800px; object-fit: contain; object-position: center;">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Md.%20Salman%20Hossain&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Full-Stack%20Engineer&descAlignY=55&descSize=20"/>
+</div>
 
-<br/>
-
-<!--- title --->
-<div id="user-content-toc" align="center">
-  <h1 style="display: inline-block">Hi 👋, I'm Md. Salman Hossain</h1>
-  <br>
-  <!--- typing effect --->
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;SaaS+Builder;Real+World+Problem+Solver;Backend+Developer;Frontend+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;SaaS+Builder;Real+World+Problem+Solver;Backend+Developer;Frontend+Developer" alt="Typing SVG" />
   </a>
   <br>
-  <img width="1500px" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+  <a href="https://www.linkedin.com/in/iamsalmanhossain"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mds619820@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/iamsalmanhossain"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.facebook.com/md.sayem.hossain.71778"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=iamsalmanhossain&style=flat-square&color=00E5FF&label=Profile+Views" />
 </div>
-<!-- =============================== -->
-<!-- 👁️ GitHub Profile View Counter -->
-<!-- =============================== -->
-<p align="center" width="150px">
-  <img width="150px" src="https://komarev.com/ghpvc/?username=iamsalmanhossain&style=flat-square&color=22CCB2" />
-</p>
-<!-- =============================== -->
-<!-- ✨ Divider -->
-<!-- =============================== -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<!--- about --->
-
-- 👋 Hi, I’m **[@Md. Salman Hossain](https://github.com/iamsalmanhossain)**
-- 🖥️ I’m currently working on **HTML, CSS, JavaScript, React and TailwindCSS** for frontend development.
-- 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
-- ⚡ I am exploring **Next.js**.
-- 🌍✈️ I’m working on a **tourism website**.
-- 🛠️ I’m currently building a **MERN STACK APPLICATION**.
-- 💬 Ask me about **Full-Stack (MongoDB, Express.js, React.js and Node.js)**.
-- 📫 Feel free to reach out to me via **[Email](mailto:mds619820@gmail.com)**
-
-    <!--  Divider -->
-  <h3 align="center" >
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-  </h3>
-
-  <!--social-->
-  ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="30"><b> FOLLOW ME ON SOCIALS:</b>
-  <table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/iamsalmanhossain">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-      </a>
-      <br />
-      LinkedIn
-    </td>
-    <td align="center">
-      <a href="https://www.facebook.com/md.sayem.hossain.71778">
-        <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
-      </a>
-      <br />
-      Facebook
-    </td>
-    <td align="center">
-      <a href="mailto:salmanhossain.dev@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="40" />
-      </a>
-      <br />
-      Gmail
-    </td>
-    <td align="center">
-      <a href="https://discord.com/users/">
-        <img src="https://skillicons.dev/icons?i=discord" width="40" />
-      </a>
-      <br />
-      Discord
-    </td>
-  </tr>
-  </table>
-    <!--  Divider -->
-  <h3 align="center" >
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-  </h3>
-
-<!--tech stack-->
-
-## 🚀 What I Bring to the Table
-
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" align="center" width="25" /> **Tech Stack & Tools**
-
-  <table align="center">
-    <tr>
-      <td align="center" width="50%">
-        <h3>🌐 Frontend Development</h3>
-        <br />
-        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" height="40" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-        <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-      </td>
-      <td align="center" width="50%">
-        <h3>⚙️ Backend Development</h3>
-        <br />
-        <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=socket.io&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-        <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>🗄️ Database & Data Layer</h3>
-        <br />
-        <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prisma" height="40" />
-      </td>
-      <td align="center">
-        <h3>🚀 DevOps & Deployment</h3>
-        <br />
-        <img src="https://skillicons.dev/icons?i=git,github,vercel" height="40" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h3>🛠️ Testing & Tools</h3>
-        <br />
-        <img src="https://skillicons.dev/icons?i=postman,vscode,figma,notion" height="40" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-      </td>
-      <td align="center">
-        <h3>🧠 Core Engineering</h3>
-        <br />
-        <img src="https://img.shields.io/badge/Auth_&_Authz-4B32C3?style=for-the-badge&logo=auth0&logoColor=white" />
-        <img src="https://img.shields.io/badge/Database_Design-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Performance_Opt.-000000?style=for-the-badge&logo=lighthouse&logoColor=white" />
-        <img src="https://img.shields.io/badge/API_Integration-FF6B6B?style=for-the-badge&logo=json&logoColor=white" />
-        <img src="https://img.shields.io/badge/Clean_Code-3448C5?style=for-the-badge&logo=sonarqube&logoColor=white" />
-        <img src="https://img.shields.io/badge/Responsive_UI-02569B?style=for-the-badge&logo=css3&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-
-<br/>
-
-
-  <h3 align="center" >
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-  </h3>
- 
-<!--
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsalmanhossain&theme=tokyonight" />
-</p>
--->
-## 🌀 Working Mode Activated
-<br> <br>
-<p align="center">
-  <img src="./assets/animated.gif" align="center" width="90%" />
-</p>
-
-<!-- ✨ Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<br/>
-
-## 📊 **GitHub Analytics**
-
-<!-- ✨ Divider -->
-<!-- =============================== -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=iamsalmanhossain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamsalmanhossain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 <br>
-  <b>Contribution Activity</b>
-<br><br>
+
+---
+
+### 👨‍💻 About Me
+
+I am a passionate and results-driven **Full-Stack Developer** specializing in the MERN stack. I focus on writing clean, scalable, and efficient code to solve real-world problems. With a keen eye for UI/UX and a strong foundation in backend architecture, I build complete web applications from the ground up.
+
+- 🚀 Currently building a **Comprehensive Tourism SaaS Platform**.
+- 💡 Exploring **Next.js** and advanced state management.
+- 🤝 Open to collaborating on **Open Source** and **Innovative SaaS products**.
+- 💬 Ask me about: **React, Node.js, Express, MongoDB, and System Design**.
+
+---
+
+### 🚀 What I Bring to the Table
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌐 Frontend Development</h3>
+      <br />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" height="40" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+      <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend Development</h3>
+      <br />
+      <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=socket.io&logoColor=white" />
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🗄️ Database & Data Layer</h3>
+      <br />
+      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prisma" height="40" />
+    </td>
+    <td align="center">
+      <h3>🚀 DevOps & Deployment</h3>
+      <br />
+      <img src="https://skillicons.dev/icons?i=git,github,vercel" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>🛠️ Testing & Tools</h3>
+      <br />
+      <img src="https://skillicons.dev/icons?i=postman,vscode,figma,notion" height="40" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+    </td>
+    <td align="center">
+      <h3>🧠 Core Engineering</h3>
+      <br />
+      <img src="https://img.shields.io/badge/Auth_&_Authz-4B32C3?style=for-the-badge&logo=auth0&logoColor=white" />
+      <img src="https://img.shields.io/badge/Database_Design-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Performance_Opt.-000000?style=for-the-badge&logo=lighthouse&logoColor=white" />
+      <img src="https://img.shields.io/badge/API_Integration-FF6B6B?style=for-the-badge&logo=json&logoColor=white" />
+      <img src="https://img.shields.io/badge/Clean_Code-3448C5?style=for-the-badge&logo=sonarqube&logoColor=white" />
+      <img src="https://img.shields.io/badge/Responsive_UI-02569B?style=for-the-badge&logo=css3&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 Featured Projects
+
+*(Note: Replace with your actual projects and links)*
+
+| 📌 Project Name | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
+|:---|:---|:---|:---|
+| **[Tourism SaaS App](#)** | A complete booking and management platform for tourism agencies. | `React` `Node.js` `MongoDB` `Tailwind` | [Live Demo](#) • [GitHub](#) |
+| **[E-Commerce Dashboard](#)** | High-performance admin dashboard with real-time analytics. | `Next.js` `Prisma` `PostgreSQL` | [Live Demo](#) • [GitHub](#) |
+| **[Real-time Chat App](#)** | Scalable chat application with WebSockets and JWT Auth. | `Socket.IO` `Express` `React` | [Live Demo](#) • [GitHub](#) |
+
+---
+
+### 📊 GitHub Analytics
+
 <div align="center">
- <img src="https://streak-stats.demolab.com/?user=iamsalmanhossain&theme=tokyonight" />
-<p align="center">
- 
-</p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamsalmanhossain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamsalmanhossain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <br><br>
+  <b>🔥 Contribution Activity</b><br>
+  <img src="https://streak-stats.demolab.com/?user=iamsalmanhossain&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
 </div>
 
-  <!-- ✨ Divider -->
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+<br>
 
-<!--- random quote --->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
-<!-- footer -->
-<p align="center">
-  <img src="./assets/footer.svg" align="center" width="90%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+</div>
