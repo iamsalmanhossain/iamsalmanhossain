@@ -57,7 +57,8 @@ console.log(md_salman.sayHi());
     <td align="center" width="50%">
       <h3>⚙️ Backend Development</h3>
       <br />
-      <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
       <br /><br />
       <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
       <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=socket.io&logoColor=white" />
