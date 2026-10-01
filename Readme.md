@@ -90,86 +90,55 @@
 
   <table align="center">
     <tr>
-      <td><strong>Frontend Development</strong></td>
-      <td><strong>Backend Development</strong></td>
-    </tr>
-    <tr>
-      <td >
-  <!-- Row 1 -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" height="40" />
-
-  <br>
-
-  <!-- Row 2 -->
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
-
-</td>
-      <td>
-        <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
-  
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/RBAC-4B32C3?style=for-the-badge&logo=auth0&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Multer-FF6B6B?style=for-the-badge&logo=files&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-</p>
+      <td align="center" width="50%">
+        <h3>🌐 Frontend Development</h3>
+        <br />
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" height="40" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+        <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+      </td>
+      <td align="center" width="50%">
+        <h3>⚙️ Backend Development</h3>
+        <br />
+        <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=socket.io&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
       </td>
     </tr>
     <tr>
-      <td><strong>Database & ORM</strong></td>
-      <td><strong>Practice</strong></td>
-    </tr>
-    <tr>
-      <td>
-       <p align="left">
-  <img
-    src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma"
-    height="40"
-    style="margin-right: 10px;"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"
-    style="margin-right: 10px;"
-  />
-</p>
+      <td align="center">
+        <h3>🗄️ Database & Data Layer</h3>
+        <br />
+        <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,prisma" height="40" />
       </td>
-       <td>
-        <img src="https://skillicons.dev/icons?i=vscode,discord" 
-          height="40" 
-          />
+      <td align="center">
+        <h3>🚀 DevOps & Deployment</h3>
+        <br />
+        <img src="https://skillicons.dev/icons?i=git,github,vercel" height="40" />
       </td>
     </tr>
     <tr>
-      <td><strong>Version Control</strong></td>
-    </tr>
-    <tr>
-      <td>
-        <img
-          src="https://skillicons.dev/icons?i=git,github"
-          height="40"
-        />
+      <td align="center">
+        <h3>🛠️ Testing & Tools</h3>
+        <br />
+        <img src="https://skillicons.dev/icons?i=postman,vscode,figma,notion" height="40" />
+        <br /><br />
+        <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
       </td>
-    </tr>
-    <tr>
-      <td colspan="2"><strong>Other Tools</strong></td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img
-          src="https://skillicons.dev/icons?i=npm,vite,firebase,vercel,netlify,postman,devto,figma,notion,bash,sass"
-          height="40"
-        />
+      <td align="center">
+        <h3>🧠 Core Engineering</h3>
+        <br />
+        <img src="https://img.shields.io/badge/Auth_&_Authz-4B32C3?style=for-the-badge&logo=auth0&logoColor=white" />
+        <img src="https://img.shields.io/badge/Database_Design-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Performance_Opt.-000000?style=for-the-badge&logo=lighthouse&logoColor=white" />
+        <img src="https://img.shields.io/badge/API_Integration-FF6B6B?style=for-the-badge&logo=json&logoColor=white" />
+        <img src="https://img.shields.io/badge/Clean_Code-3448C5?style=for-the-badge&logo=sonarqube&logoColor=white" />
+        <img src="https://img.shields.io/badge/Responsive_UI-02569B?style=for-the-badge&logo=css3&logoColor=white" />
       </td>
     </tr>
   </table>
