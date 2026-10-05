@@ -125,7 +125,7 @@ console.log(md_salman.sayHi());
   <img src="https://streak-stats.demolab.com/?user=iamsalmanhossain&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
   <br><br>
   <b>🐍 Contribution Snake</b><br>
-  <img src="https://raw.githubusercontent.com/iamsalmanhossain/iamsalmanhossain/output/snake.svg" alt="Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/iamsalmanhossain/iamsalmanhossain/output/snake.svg" alt="Contribution Snake " width="100%" />
 </div>
 
 <br>
