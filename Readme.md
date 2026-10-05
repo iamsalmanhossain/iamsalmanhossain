@@ -121,9 +121,7 @@ console.log(md_salman.sayHi());
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamsalmanhossain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamsalmanhossain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
   <br><br>
-  <b>🔥 Contribution Activity</b><br>
-  <img src="https://streak-stats.demolab.com/?user=iamsalmanhossain&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
-  <br><br>
+
   <b>🐍 Contribution Snake</b><br>
   <img src="https://raw.githubusercontent.com/iamsalmanhossain/iamsalmanhossain/output/snake.svg" alt="Contribution Snake " width="100%" />
 </div>
