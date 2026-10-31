@@ -119,8 +119,8 @@ console.log(md_salman.sayHi());
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamsalmanhossain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsalmanhossain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=iamsalmanhossain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsalmanhossain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" /> -->
   <br><br>
   <b>🔥 Contribution Activity</b><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamsalmanhossain&theme=tokyonight&hide_border=true&background=0D1117&timezone=Asia/Dhaka" width="100%" />
