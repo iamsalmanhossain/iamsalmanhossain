@@ -1,0 +1,21 @@
+name: Purge Camo Cache
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Every 6 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'Readme.md'
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Purge Camo Cache for Readme badges
+        uses: kevincobain2000/action-camo-purge@v1
