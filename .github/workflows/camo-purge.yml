@@ -1,8 +1,9 @@
 name: Purge Camo Cache
 
+# Regularly purge GitHub's Camo image proxy cache to ensure stats badges stay up-to-date
 on:
   schedule:
-    - cron: '0 */6 * * *' # Every 6 hours
+    - cron: '0 */6 * * *' # Executes every 6 hours
   workflow_dispatch:
   push:
     branches:
@@ -10,12 +11,20 @@ on:
     paths:
       - 'Readme.md'
 
+concurrency:
+  group: camo-purge-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   purge:
+    name: Clear Camo Proxy Cache
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Purge Camo Cache for Readme badges
         uses: kevincobain2000/action-camo-purge@v1
+
