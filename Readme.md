@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&section=header&text=Md.%20Salman%20Hossain&fontSize=50&fontAlignY=35&fontColor=ffffff&desc=Full-Stack%20Engineer&descAlignY=55&descSize=20"/>
+</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
